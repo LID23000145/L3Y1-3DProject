@@ -97,7 +97,6 @@ GameObject:
   - component: {fileID: 1121942826404054789}
   - component: {fileID: 4667754498451935467}
   - component: {fileID: 5398691405223068621}
-  - component: {fileID: 4465040204941737973}
   m_Layer: 0
   m_Name: HeadLight1
   m_TagString: Untagged
@@ -11742,28 +11741,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 201627614725285877}
   m_Mesh: {fileID: 0}
---- !u!64 &4465040204941737973
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 201627614725285877}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!1 &1388651209119542290
 GameObject:
   m_ObjectHideFlags: 0
@@ -11777,7 +11754,6 @@ GameObject:
   - component: {fileID: 1982588319819089658}
   - component: {fileID: 8527129602030540511}
   - component: {fileID: 5023624764443532865}
-  - component: {fileID: 2596649245196830091}
   m_Layer: 0
   m_Name: Seat
   m_TagString: Untagged
@@ -13242,28 +13218,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1388651209119542290}
   m_Mesh: {fileID: 0}
---- !u!64 &2596649245196830091
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1388651209119542290}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!1 &1556739467089454638
 GameObject:
   m_ObjectHideFlags: 0
@@ -13277,7 +13231,6 @@ GameObject:
   - component: {fileID: 1390507679860576942}
   - component: {fileID: 1184071707784206913}
   - component: {fileID: 2897068683960962196}
-  - component: {fileID: 52596151541062383}
   m_Layer: 0
   m_Name: BackOfCar2
   m_TagString: Untagged
@@ -15395,28 +15348,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1556739467089454638}
   m_Mesh: {fileID: 0}
---- !u!64 &52596151541062383
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1556739467089454638}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!1 &1981114647149123698
 GameObject:
   m_ObjectHideFlags: 0
@@ -15514,7 +15445,6 @@ GameObject:
   - component: {fileID: 7501760993075537983}
   - component: {fileID: 2957557795060335252}
   - component: {fileID: 2680239668249410702}
-  - component: {fileID: 7587191555595610074}
   m_Layer: 0
   m_Name: ArchForWheel2
   m_TagString: Untagged
@@ -16379,28 +16309,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2770000011999626884}
   m_Mesh: {fileID: 0}
---- !u!64 &7587191555595610074
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2770000011999626884}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!1 &3107373473787741797
 GameObject:
   m_ObjectHideFlags: 0
@@ -16660,7 +16568,6 @@ GameObject:
   - component: {fileID: 5989968964774323877}
   - component: {fileID: 4294197602989749793}
   - component: {fileID: 3987743905942687349}
-  - component: {fileID: 2593236833368905161}
   m_Layer: 0
   m_Name: FrontOfCar
   m_TagString: Untagged
@@ -21661,28 +21568,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5498849853529978443}
   m_Mesh: {fileID: 0}
---- !u!64 &2593236833368905161
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5498849853529978443}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!1 &5610994839622238692
 GameObject:
   m_ObjectHideFlags: 0
@@ -21696,7 +21581,6 @@ GameObject:
   - component: {fileID: 4010490424557376809}
   - component: {fileID: 80257275257277631}
   - component: {fileID: 8752980008876308138}
-  - component: {fileID: 3734405445111995142}
   m_Layer: 0
   m_Name: BlackBodyForCar
   m_TagString: Untagged
@@ -22014,28 +21898,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5610994839622238692}
   m_Mesh: {fileID: 0}
---- !u!64 &3734405445111995142
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5610994839622238692}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!1 &6499631939713118574
 GameObject:
   m_ObjectHideFlags: 0
@@ -22049,7 +21911,6 @@ GameObject:
   - component: {fileID: 5019425697327864003}
   - component: {fileID: 3410140070032233476}
   - component: {fileID: 8438012362849615401}
-  - component: {fileID: 3415387552246349310}
   m_Layer: 0
   m_Name: ArchForWheel1
   m_TagString: Untagged
@@ -22914,28 +22775,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6499631939713118574}
   m_Mesh: {fileID: 0}
---- !u!64 &3415387552246349310
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6499631939713118574}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!1 &6874151015742923153
 GameObject:
   m_ObjectHideFlags: 0
@@ -22949,7 +22788,6 @@ GameObject:
   - component: {fileID: 3990861409217968010}
   - component: {fileID: 1168889123640314906}
   - component: {fileID: 2322282681710262369}
-  - component: {fileID: 5935535369023754613}
   m_Layer: 0
   m_Name: BackOfCar1
   m_TagString: Untagged
@@ -23507,28 +23345,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6874151015742923153}
   m_Mesh: {fileID: 0}
---- !u!64 &5935535369023754613
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6874151015742923153}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!1 &6910564141449513159
 GameObject:
   m_ObjectHideFlags: 0
@@ -23542,7 +23358,6 @@ GameObject:
   - component: {fileID: 2200085687026079087}
   - component: {fileID: 3512311299646564308}
   - component: {fileID: 4638980725514693162}
-  - component: {fileID: 8733794383412927426}
   m_Layer: 0
   m_Name: BackWindow
   m_TagString: Untagged
@@ -27356,28 +27171,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6910564141449513159}
   m_Mesh: {fileID: 0}
---- !u!64 &8733794383412927426
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6910564141449513159}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!1 &7201442236263350950
 GameObject:
   m_ObjectHideFlags: 0
@@ -27391,7 +27184,6 @@ GameObject:
   - component: {fileID: 1923934133356168085}
   - component: {fileID: 3398351180791254787}
   - component: {fileID: 5393137351468030525}
-  - component: {fileID: 4475211625674168852}
   m_Layer: 0
   m_Name: WheelForCarDriveWheel
   m_TagString: Untagged
@@ -41576,28 +41368,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7201442236263350950}
   m_Mesh: {fileID: 0}
---- !u!64 &4475211625674168852
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7201442236263350950}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!1 &8191080641597816161
 GameObject:
   m_ObjectHideFlags: 0
@@ -41611,7 +41381,6 @@ GameObject:
   - component: {fileID: 6871513185679677459}
   - component: {fileID: 1989358756488392095}
   - component: {fileID: 39666046608405773}
-  - component: {fileID: 7933642020800601195}
   m_Layer: 0
   m_Name: HeadLight2
   m_TagString: Untagged
@@ -53255,26 +53024,4 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8191080641597816161}
-  m_Mesh: {fileID: 0}
---- !u!64 &7933642020800601195
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8191080641597816161}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
   m_Mesh: {fileID: 0}
